@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wr",
+				"write"
+			],
+			[
+				"wro",
+				"wroxCount"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"d",
+				"text-decoration"
+			],
+			[
+				"fi",
+				"fibinacci"
+			],
+			[
+				"sq",
+				"square_root"
+			],
+			[
+				"fin",
+				"fibonacciNum"
+			],
+			[
+				"first",
+				"firstNum"
+			],
+			[
+				"secon",
+				"secondNum"
+			],
+			[
+				"se",
+				"secondNum"
+			],
+			[
+				"fir",
+				"firstNum"
+			],
+			[
+				"fib",
+				"fibonacciNum"
+			],
+			[
+				"R",
+				"ResultsP"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"to",
+				"todoView"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"todo",
+				"todoView"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"sibl",
+				"siblingAmount"
+			],
+			[
+				"margin",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/js-examples/index.html",
+			"settings":
+			{
+				"buffer_size": 5166,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n\n<body>\n</body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Windows",
+				"name": "<!DOCTYPE html>"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/wince/my-site/index.html",
+		"/C/xampp/htdocs/wince/my-site/css/main.css",
+		"/C/xampp/htdocs/wince/my-site/foundation.html",
+		"/C/xampp/htdocs/wince/my-site/css/foundation.css",
+		"/C/xampp/htdocs/wince/my-site/css/app.css",
+		"/C/xampp/htdocs/wince/my-site/js/vendor/what-input.js",
+		"/C/xampp/htdocs/wince/my-site/css/foundation/css/foundation.css",
+		"/C/xampp/htdocs/wince/my-site/css/foundation/css/app.css",
+		"/C/xampp/htdocs/wince/My Site/index.html",
+		"/C/xampp/htdocs/wince/My Site/css/main.css",
+		"/C/xampp/htdocs/js-examples/index.html",
+		"/C/Users/theWinces/Documents/Fanatics/MobileBalance/components/AlertMessage.js",
+		"/C/Users/theWinces/Documents/Fanatics/MobileBalance/eventManagers/FilterEventManager.js",
+		"/C/Users/theWinces/Documents/Fanatics/MobileBalance/controllers/CartPage.js",
+		"/C/xampp/htdocs/job test/codetest-1-master-a226bf7402d50687f3c423cc3f9d5b1e6c829936 (1)/codetest-1-master-a226bf7402d50687f3c423cc3f9d5b1e6c829936/code.js",
+		"/C/xampp/htdocs/job test/codetest-1-master-a226bf7402d50687f3c423cc3f9d5b1e6c829936 (1)/codetest-1-master-a226bf7402d50687f3c423cc3f9d5b1e6c829936/code.cs",
+		"/C/xampp/htdocs/job test/codetest-1-master-a226bf7402d50687f3c423cc3f9d5b1e6c829936/README.md",
+		"/C/xampp/htdocs/colosaa/files/core.css",
+		"/C/xampp/htdocs/wince/backbone/intro/index.html",
+		"/C/xampp/htdocs/wince/backbone/intro/javascript/demo.js",
+		"/C/xampp/htdocs/Code Reviews/FinalProject/FinalProject/final.html",
+		"/C/xampp/htdocs/wince/backbone/javascript/underscore.js",
+		"/C/xampp/htdocs/wince/backbone/javascript/backbone.js",
+		"/C/xampp/htdocs/wince/backbone/javascript/jquery-1.11.3.min.js",
+		"/C/xampp/htdocs/modx-2.3.2-pl-family-tree-stage/assets/scripts/dfCookie.php",
+		"/C/xampp/htdocs/wince/index.php",
+		"/C/xampp/htdocs/wince/js/core.js",
+		"/C/xampp/htdocs/modx-2.3.2-pl-family-tree-stage/assets/scripts/Library.php",
+		"/C/xampp/htdocs/modx-2.3.2-pl-family-tree-stage/assets/scripts/Library",
+		"/C/xampp/htdocs/modx-2.3.2-pl-family-tree-stage/assets/js/core.js",
+		"/C/xampp/htdocs/Code Reviews/FinalProject/FinalProject/js/script.js",
+		"/C/xampp/htdocs/nick-h/family_tree/js/versioned core js code.js",
+		"/C/xampp/htdocs/nick-h/family_tree/scripts/library.php",
+		"/C/xampp/htdocs/nick-h/family_tree/css/overrides.css",
+		"/C/xampp/htdocs/nick-h/family_tree/js/core.js",
+		"/C/Users/theWinces/Documents/Nick F/bootstrap_wp/footer.php",
+		"/C/xampp/htdocs/modx-2.3.2-pl/assets/scripts/db_connection.php",
+		"/C/xampp/htdocs/modx-2.3.2-pl/assets/js/core.js",
+		"/C/xampp/htdocs/modx-2.3.2-pl/assets/scripts/db_include",
+		"/C/xampp/htdocs/nick-h/PHP Snippets/another snippet3.php",
+		"/C/xampp/htdocs/nick-h/PHP Snippets/php_snippets.php",
+		"/C/xampp/htdocs/nick-h/PHP Snippets/another snippet2",
+		"/C/xampp/htdocs/nick-h/PHP Snippets/another snippet1",
+		"/C/Users/theWinces/Documents/MobileBalance/controllers/CartPage.js",
+		"/C/Users/theWinces/Documents/MobileBalance/components/Cart.js",
+		"/C/Users/theWinces/Desktop/core.css",
+		"/C/xampp/htdocs/modx-2.3.2/core/config/config.inc.php",
+		"/C/xampp/htdocs/modx-2.3.2/index.php",
+		"/C/xampp/htdocs/modx-2.3.2/config.core.php",
+		"/C/xampp/htdocs/modx-2.3.2-pl/core/config/config.inc.php",
+		"/C/xampp/htdocs/foundation_test/css/sass/screen.scss",
+		"/C/xampp/htdocs/wince/css/style.css",
+		"/C/xampp/htdocs/foundation_test/css/screen.css",
+		"/C/Users/theWinces/Documents/MobileBalance/controllers/HomePage.js",
+		"/C/Users/theWinces/Documents/MobileBalance/controllers/ProductPage.js",
+		"/C/Users/theWinces/Documents/MobileBalance/app.js",
+		"/C/Users/theWinces/Documents/MobileBalance/components/BaseHeaderPage.js",
+		"/C/Users/theWinces/Documents/MobileBalance/components/BasePage.js",
+		"/C/xampp/htdocs/foundation_test/css/sass/print.scss",
+		"/C/Users/theWinces/Documents/MobileBalance/components/Form.js",
+		"/C/Users/theWinces/Documents/MobileBalance/utility.js",
+		"/C/xampp/htdocs/nick-h/core.css",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/config.inc.php",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/config.core 3.php",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/config.core.php",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/ht.access",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/config.core 2.php",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/theWinces/AppData/Local/Temp/fz3temp-1/modmanagerresponse.class.php",
+		"/C/xampp/htdocs/nick-h/family_tree/index.html",
+		"/C/xampp/htdocs/modx-2.3.2-pl/config.core.php",
+		"/C/xampp/htdocs/Nick H/family_tree/index.html",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/html5_template",
+		"/C/Users/theWinces/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/C/Users/theWinces/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"JANET DES",
+			"terry",
+			"currentState",
+			"displayChi",
+			"john",
+			"mid",
+			"familyUrl",
+			"parent",
+			"}",
+			"82",
+			"memberInfoPlaceholder",
+			"['spouse",
+			"memberCount",
+			"memberInfoPlaceholder",
+			"data[b]",
+			"url",
+			"haschildren",
+			"di.",
+			"fi.",
+			"childDobYear",
+			"fi.childDobDay",
+			"fi.parentDobDay",
+			"fi.parentDobMonth",
+			"fi.parentDobYear",
+			"fi.dobYear",
+			"fi.dobMonth",
+			"fi.dobDay",
+			"fi.dobMonth",
+			"fi.dobYear",
+			"body",
+			"init",
+			"homepage",
+			"constructor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"birthState",
+			"childInfoPlaceholder",
+			"['childSpouse",
+			"childrenCount",
+			"childInfoPlaceholder",
+			"b",
+			"fi.",
+			"di.",
+			"dobYear",
+			"dobDay",
+			"fi.childDobDay",
+			"fi.childDobMonth",
+			"fi.childDobYear",
+			"fi.parentDobYear",
+			"fi.parentDobMonth",
+			"fi.parentDobDay",
+			"fi.spouseDobDay",
+			"fi.spouseDobMonth",
+			"fi.spouseDobYear"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/js-examples/index.html",
+					"settings":
+					{
+						"buffer_size": 5166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!DOCTYPE html>",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
