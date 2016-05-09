@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Backbone Test</title>
+</head>
+
+<body>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+	<script src="https://github.com/jashkenas/underscore/blob/master/underscore-min.js"></script>
+	<script src="https://github.com/jashkenas/backbone/blob/master/backbone-min.js"></script>
+	<script type="text/javascript">
+		var Todo = Backbone.Model.extend({});
+
+		var todo1 = new Todo();
+
+		console.log(JSON.stringify(todo1));
+	</script>
+</body>
+</html>
